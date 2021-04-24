@@ -1,0 +1,96 @@
+  
+  468  clear
+  469  git add .
+  470  ls
+  471  clear
+  472  git add .
+  473  git commit "Change Solve"
+  474  git commit -m "Change Solve"
+  475  git push -u origin master
+  476  git push --help
+  477  git pull master
+  478  git pull
+  479  git push -u origin master
+  480  git fetch origin
+  481  git merge oriign
+  482  git merge origin
+  483  ls
+  484  ls -la
+  485  cd .git
+  486  ls
+  487  git merge origin git pull origin master
+  488  cd 
+  489  ls
+  490  cd .
+  491  cd DEVOPS\ EDU/
+  492  cd git_hw/
+  493  cd git.hw/
+  494  ls
+  495  git merge origin git pull origin master
+  496  git merge origin
+  497  git push -u origin master
+  498  g
+  499  git fetch
+  500  git log
+  501  git clone
+  502  git clone https://github.com/Mirelda/git.hw/blob/master/index.html
+  503  git clone https://github.com/Mirelda/git.hw
+  504  git fetch
+  505  git log
+  506  git status
+  507  git add .
+  508  cd git.hw
+  509  ls
+  510  git add .
+  511  git commit -m "Change smt"
+  512  git push -u origin master
+  513  git pull
+  514  git push -u origin master
+  515  git push --force
+  516  vi hakkimda.html
+  517  git checkout -b feature_hakkimda
+  518  git branch
+  519  git add hakkimda.html
+  520  git commit -m "Hakkimda eklendi"
+  521  git stash
+  522  git status
+  523  git status
+  524  git add .
+  525  git status
+  526  git commit -m "Hakkimda eklendi"
+  527  git checkout master
+  528  git status
+  529  git add .
+  530  git status
+  531  git checkout
+  532  git checkout mirel/hakkimizda
+  533  git checkout -b feature_hakkimda 
+  534  git status
+  535  git checkout -b feature_mirel 
+  536  git branch
+  537  git add hakkimda.html
+  538  git add .
+  539  git add .
+  540  ls
+  541  ls
+  542  git add .
+  543  ls
+  544  git commit -m "Hakkımda eklendi"
+  545  git branch 
+  546  git status
+  547  git push origin master
+  548  git checkout master
+  549  git checkout feature_hakkimda
+  550  git checkout feature_mirel
+  551  git checkout master
+  552  git checkout feature_mirel
+  553  git checkout feature_hakkimda
+  554  git checkout master
+  555  git merge feature_hakkimda
+  556  git status
+  557  git add .
+  558  git commit -m "Hakkımızda branchi merge edilip eklendi."
+  559  git push origin master
+  560  git push origin feature_hakkimda
+  561  git push origin feature_mirel
+  562  history > mirel_history
